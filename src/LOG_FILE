@@ -1,0 +1,145 @@
+[2019-07-15 16:05:08,716 INFO] PPL []
+[2019-07-15 16:11:00,534 INFO] PPL []
+[2019-07-15 16:11:47,354 INFO] PPL []
+[2019-07-15 16:12:44,721 INFO] PPL []
+[2019-07-15 16:13:35,180 INFO] PPL []
+[2019-07-15 16:13:43,433 INFO] PPL []
+[2019-07-15 16:14:22,298 INFO] Loading checkpoint from ../models/bert_classifier/model_step_1000.pt
+[2019-07-15 16:15:22,543 INFO] Loading checkpoint from ../models/bert_classifier/model_step_1000.pt
+[2019-07-15 16:16:52,112 INFO] Loading checkpoint from ../models/bert_classifier/model_step_1000.pt
+[2019-07-15 16:18:40,596 INFO] Loading checkpoint from ../models/bert_classifier/model_step_1000.pt
+[2019-07-15 16:18:47,396 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:18:47,400 INFO] * number of parameters: 109483009
+[2019-07-15 16:19:03,000 INFO] Validation xent: 6.64386 at step 1000
+[2019-07-15 16:19:03,062 INFO] Loading checkpoint from ../models/bert_classifier/model_step_2000.pt
+[2019-07-15 16:19:05,321 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:19:05,324 INFO] * number of parameters: 109483009
+[2019-07-15 16:19:20,911 INFO] Validation xent: 6.05391 at step 2000
+[2019-07-15 16:19:20,966 INFO] Loading checkpoint from ../models/bert_classifier/model_step_3000.pt
+[2019-07-15 16:19:23,290 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:19:23,293 INFO] * number of parameters: 109483009
+[2019-07-15 16:19:38,930 INFO] Validation xent: 5.97065 at step 3000
+[2019-07-15 16:19:38,944 INFO] Loading checkpoint from ../models/bert_classifier/model_step_4000.pt
+[2019-07-15 16:19:41,239 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:19:41,241 INFO] * number of parameters: 109483009
+[2019-07-15 16:19:56,914 INFO] Validation xent: 5.77615 at step 4000
+[2019-07-15 16:19:56,917 INFO] Loading checkpoint from ../models/bert_classifier/model_step_5000.pt
+[2019-07-15 16:19:59,173 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:19:59,175 INFO] * number of parameters: 109483009
+[2019-07-15 16:20:14,849 INFO] Validation xent: 5.65121 at step 5000
+[2019-07-15 16:20:14,851 INFO] Loading checkpoint from ../models/bert_classifier/model_step_6000.pt
+[2019-07-15 16:20:17,058 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:20:17,061 INFO] * number of parameters: 109483009
+[2019-07-15 16:20:32,757 INFO] Validation xent: 5.65149 at step 6000
+[2019-07-15 16:20:32,760 INFO] Loading checkpoint from ../models/bert_classifier/model_step_7000.pt
+[2019-07-15 16:20:34,998 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:20:35,001 INFO] * number of parameters: 109483009
+[2019-07-15 16:20:50,688 INFO] Validation xent: 5.61945 at step 7000
+[2019-07-15 16:20:50,695 INFO] Loading checkpoint from ../models/bert_classifier/model_step_8000.pt
+[2019-07-15 16:20:52,917 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:20:52,920 INFO] * number of parameters: 109483009
+[2019-07-15 16:21:08,615 INFO] Validation xent: 5.55909 at step 8000
+[2019-07-15 16:21:08,618 INFO] Loading checkpoint from ../models/bert_classifier/model_step_9000.pt
+[2019-07-15 16:21:10,816 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:21:10,818 INFO] * number of parameters: 109483009
+[2019-07-15 16:21:26,502 INFO] Validation xent: 5.54316 at step 9000
+[2019-07-15 16:21:26,504 INFO] Loading checkpoint from ../models/bert_classifier/model_step_10000.pt
+[2019-07-15 16:21:28,724 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:21:28,726 INFO] * number of parameters: 109483009
+[2019-07-15 16:21:44,415 INFO] Validation xent: 5.54203 at step 10000
+[2019-07-15 16:21:44,422 INFO] Loading checkpoint from ../models/bert_classifier/model_step_11000.pt
+[2019-07-15 16:21:46,648 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:21:46,651 INFO] * number of parameters: 109483009
+[2019-07-15 16:22:02,349 INFO] Validation xent: 5.51905 at step 11000
+[2019-07-15 16:22:02,351 INFO] Loading checkpoint from ../models/bert_classifier/model_step_12000.pt
+[2019-07-15 16:22:04,625 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:22:04,628 INFO] * number of parameters: 109483009
+[2019-07-15 16:22:20,339 INFO] Validation xent: 5.54617 at step 12000
+[2019-07-15 16:22:20,341 INFO] Loading checkpoint from ../models/bert_classifier/model_step_13000.pt
+[2019-07-15 16:22:22,578 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:22:22,580 INFO] * number of parameters: 109483009
+[2019-07-15 16:22:38,301 INFO] Validation xent: 5.45842 at step 13000
+[2019-07-15 16:22:38,303 INFO] Loading checkpoint from ../models/bert_classifier/model_step_14000.pt
+[2019-07-15 16:22:40,550 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:22:40,553 INFO] * number of parameters: 109483009
+[2019-07-15 16:22:56,236 INFO] Validation xent: 5.45113 at step 14000
+[2019-07-15 16:22:56,239 INFO] Loading checkpoint from ../models/bert_classifier/model_step_15000.pt
+[2019-07-15 16:22:58,447 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:22:58,449 INFO] * number of parameters: 109483009
+[2019-07-15 16:23:14,140 INFO] Validation xent: 5.46805 at step 15000
+[2019-07-15 16:23:14,142 INFO] Loading checkpoint from ../models/bert_classifier/model_step_16000.pt
+[2019-07-15 16:23:16,115 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:23:16,118 INFO] * number of parameters: 109483009
+[2019-07-15 16:23:31,807 INFO] Validation xent: 5.45445 at step 16000
+[2019-07-15 16:23:31,809 INFO] Loading checkpoint from ../models/bert_classifier/model_step_17000.pt
+[2019-07-15 16:23:34,020 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:23:34,023 INFO] * number of parameters: 109483009
+[2019-07-15 16:23:49,744 INFO] Validation xent: 5.46661 at step 17000
+[2019-07-15 16:23:49,746 INFO] Loading checkpoint from ../models/bert_classifier/model_step_18000.pt
+[2019-07-15 16:23:52,017 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:23:52,019 INFO] * number of parameters: 109483009
+[2019-07-15 16:24:07,740 INFO] Validation xent: 5.45339 at step 18000
+[2019-07-15 16:24:07,742 INFO] Loading checkpoint from ../models/bert_classifier/model_step_19000.pt
+[2019-07-15 16:24:10,014 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:24:10,016 INFO] * number of parameters: 109483009
+[2019-07-15 16:24:25,721 INFO] Validation xent: 5.41208 at step 19000
+[2019-07-15 16:24:25,723 INFO] Loading checkpoint from ../models/bert_classifier/model_step_20000.pt
+[2019-07-15 16:24:28,097 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:24:28,100 INFO] * number of parameters: 109483009
+[2019-07-15 16:24:43,804 INFO] Validation xent: 5.44424 at step 20000
+[2019-07-15 16:24:43,806 INFO] Loading checkpoint from ../models/bert_classifier/model_step_21000.pt
+[2019-07-15 16:24:46,031 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:24:46,034 INFO] * number of parameters: 109483009
+[2019-07-15 16:25:01,756 INFO] Validation xent: 5.43885 at step 21000
+[2019-07-15 16:25:01,758 INFO] Loading checkpoint from ../models/bert_classifier/model_step_22000.pt
+[2019-07-15 16:25:03,995 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:25:03,998 INFO] * number of parameters: 109483009
+[2019-07-15 16:25:19,700 INFO] Validation xent: 5.39549 at step 22000
+[2019-07-15 16:25:19,703 INFO] Loading checkpoint from ../models/bert_classifier/model_step_23000.pt
+[2019-07-15 16:25:21,915 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:25:21,917 INFO] * number of parameters: 109483009
+[2019-07-15 16:25:37,631 INFO] Validation xent: 5.42196 at step 23000
+[2019-07-15 16:25:37,634 INFO] Loading checkpoint from ../models/bert_classifier/model_step_24000.pt
+[2019-07-15 16:25:39,809 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:25:39,812 INFO] * number of parameters: 109483009
+[2019-07-15 16:25:55,512 INFO] Validation xent: 5.43912 at step 24000
+[2019-07-15 16:25:55,515 INFO] Loading checkpoint from ../models/bert_classifier/model_step_25000.pt
+[2019-07-15 16:25:57,795 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:25:57,797 INFO] * number of parameters: 109483009
+[2019-07-15 16:26:13,512 INFO] Validation xent: 5.42739 at step 25000
+[2019-07-15 16:26:13,514 INFO] Loading checkpoint from ../models/bert_classifier/model_step_26000.pt
+[2019-07-15 16:26:16,052 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:26:16,055 INFO] * number of parameters: 109483009
+[2019-07-15 16:26:31,759 INFO] Validation xent: 5.44782 at step 26000
+[2019-07-15 16:26:31,761 INFO] Loading checkpoint from ../models/bert_classifier/model_step_27000.pt
+[2019-07-15 16:26:33,941 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:26:33,943 INFO] * number of parameters: 109483009
+[2019-07-15 16:26:49,626 INFO] Validation xent: 5.42413 at step 27000
+[2019-07-15 16:26:49,628 INFO] Loading checkpoint from ../models/bert_classifier/model_step_28000.pt
+[2019-07-15 16:26:51,995 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:26:51,998 INFO] * number of parameters: 109483009
+[2019-07-15 16:27:07,696 INFO] Validation xent: 5.41737 at step 28000
+[2019-07-15 16:27:07,698 INFO] Loading checkpoint from ../models/bert_classifier/model_step_29000.pt
+[2019-07-15 16:27:09,940 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:27:09,943 INFO] * number of parameters: 109483009
+[2019-07-15 16:27:25,649 INFO] Validation xent: 5.45427 at step 29000
+[2019-07-15 16:27:25,651 INFO] Loading checkpoint from ../models/bert_classifier/model_step_30000.pt
+[2019-07-15 16:27:27,827 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:27:27,830 INFO] * number of parameters: 109483009
+[2019-07-15 16:27:43,553 INFO] Validation xent: 5.46035 at step 30000
+[2019-07-15 16:27:43,556 INFO] Loading checkpoint from ../models/bert_classifier/model_step_31000.pt
+[2019-07-15 16:27:45,783 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:27:45,786 INFO] * number of parameters: 109483009
+[2019-07-15 16:28:01,483 INFO] Validation xent: 5.43914 at step 31000
+[2019-07-15 16:28:01,485 INFO] Loading checkpoint from ../models/bert_classifier/model_step_32000.pt
+[2019-07-15 16:28:03,679 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:28:03,682 INFO] * number of parameters: 109483009
+[2019-07-15 16:28:19,389 INFO] Validation xent: 5.53312 at step 32000
+[2019-07-15 16:28:19,391 INFO] Loading checkpoint from ../models/bert_classifier/model_step_33000.pt
+[2019-07-15 16:28:21,632 INFO] Loading valid dataset from ../bert_data.valid.pt, number of examples: 1362
+[2019-07-15 16:28:21,634 INFO] * number of parameters: 109483009
+[2019-07-15 16:28:37,346 INFO] Validation xent: 5.50725 at step 33000
+[2019-07-15 16:28:37,348 INFO] PPL [(5.3954897304988645, '../models/bert_classifier/model_step_22000.pt'), (5.412075731722794, '../models/bert_classifier/model_step_19000.pt'), (5.417369287969782, '../models/bert_classifier/model_step_28000.pt')]
+[2019-07-15 16:28:37,349 INFO] Loading checkpoint from ../models/bert_classifier/model_step_22000.pt
+[2019-07-16 11:16:51,450 INFO] Loading checkpoint from model_step_50000.pt
+[2019-07-16 11:20:17,980 INFO] Loading checkpoint from ../models/bert_classifier/model_step_50000.pt
